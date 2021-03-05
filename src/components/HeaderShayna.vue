@@ -9,7 +9,7 @@
               <i class="fa fa-envelope"></i> admin@shayna.com
             </div>
             <div class="phone-service">
-              <i class="fa fa-phone"></i> +628 2325031996
+              <i class="fa fa-phone"></i> +628 25031996
             </div>
           </div>
         </div>

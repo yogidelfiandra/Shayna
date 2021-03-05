@@ -11,7 +11,6 @@
 
 <script>
 // @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
 import HeaderShayna from '@/components/HeaderShayna.vue'
 import HeroShayna from '@/components/HeroShayna.vue'
 import BannerShayna from '@/components/BannerShayna.vue'
